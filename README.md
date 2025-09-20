@@ -1,3 +1,3 @@
-dot files: https://git.sr.ht/~pinsl/config-files
+dot files: <https://codeberg.org/funnes/config-files>
 
-keyboard: https://git.sr.ht/~pinsl/split-keyboard
+keyboard: <https://codeberg.org/funnes/split-keyboard>
